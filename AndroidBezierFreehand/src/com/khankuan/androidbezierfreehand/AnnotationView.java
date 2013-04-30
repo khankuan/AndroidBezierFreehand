@@ -16,7 +16,7 @@ import android.view.View;
 /*
  * 	Annotation View that takes in touch input and draws smooth freehand drawing.
  * 	Width and Height are expected to be fixed after initialisation
- * 	Several functions are available: Clear, Set color, Set size
+ * 	Several functions are available: Clear, Set color, Set size, Undo, Redo
  * 
  */
 public class AnnotationView extends View{
