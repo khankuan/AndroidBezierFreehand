@@ -1,0 +1,1 @@
+A simple demonstration of smooth freehand drawing on Android canvas.
